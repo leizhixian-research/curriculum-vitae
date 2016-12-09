@@ -18,18 +18,22 @@
   * B.S Computer Science - Tsinghua University
 
 ## Awards and Honors
+
+* 2016
+ * outstanding graduate Yao Class student
+
 * 2015
-  * Yao Award (bronze medal) for outstanding academic performances of Yao Class students
+ * Yao Award (bronze medal) for outstanding academic performances of Yao Class students
   
 * 2014
-  * University scholarship for outstanding academic award
+ * University scholarship for outstanding academic award
   
 * 2013
-  * Zhang Weimin scholarship for outstanding academic award
-  * Excellent comprehensive quality scholarship
+ * Zhang Weimin scholarship for outstanding academic award
+ * Excellent comprehensive quality scholarship
   
 * 2012
-  * Selected for Xuetang Program (funding program for students with excellent performance)}
+ * Selected for Xuetang Program (funding program for students with excellent performance)}
   
 Experience
 ----------
