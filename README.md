@@ -1,7 +1,8 @@
 # Zhixian Lei - Curriculum Vitae
 
 ## Personal Details
-   * Name: Zhixian Lei
+
+* Name: Zhixian Lei
 ============
 
 -------------------     ----------------------------
