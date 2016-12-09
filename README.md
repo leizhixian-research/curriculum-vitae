@@ -12,10 +12,10 @@
 ## Education
 
 2016-Present
-:   Ph.D Computer Science - Harvard University
+  : Ph.D Computer Science - Harvard University
 
 2012-2016
-:   B.S Computer Science - Tsinghua University
+  : B.S Computer Science - Tsinghua University
 
 Experience
 ----------
