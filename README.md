@@ -2,7 +2,7 @@
 
 ## Personal Details
 
-* Name: Zhixian Lei
+   Name: Zhixian Lei
 ============
 
 -------------------     ----------------------------
