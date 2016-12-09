@@ -11,25 +11,25 @@
 
 ## Education
 
-2016-Present
-  : Ph.D Computer Science - Harvard University
+* 2016-Present
+  * Ph.D Computer Science - Harvard University
 
-2012-2016
-  : B.S Computer Science - Tsinghua University
+* 2012-2016
+  * B.S Computer Science - Tsinghua University
 
 ## Awards and Honors
-2015
-  : Yao Award (bronze medal) for outstanding academic performances of Yao Class students
+* 2015
+  * Yao Award (bronze medal) for outstanding academic performances of Yao Class students
   
-2014
-    : University scholarship for outstanding academic award
+* 2014
+  * University scholarship for outstanding academic award
   
-2013
-    : Zhang Weimin scholarship for outstanding academic award
-    : Excellent comprehensive quality scholarship
+* 2013
+  * Zhang Weimin scholarship for outstanding academic award
+  * Excellent comprehensive quality scholarship
   
-2012
-    : Selected for Xuetang Program (funding program for students with excellent performance)}
+* 2012
+  * Selected for Xuetang Program (funding program for students with excellent performance)}
   
 Experience
 ----------
