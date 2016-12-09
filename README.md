@@ -1,6 +1,7 @@
-# curriculum-vitae
+# Zhixian Lei - Curriculum Vitae
 
-Johnny Coder
+## Personal Details
+* Name: Zhixian Lei
 ============
 
 -------------------     ----------------------------
