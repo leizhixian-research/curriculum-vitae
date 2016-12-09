@@ -3,6 +3,11 @@
 ## Personal Details
 
 * Name: Zhixian Lei
+* Position: G1 Student of Computer Science, John A. Paulson School of Engineering and Applied Sciences, Harvard
+* Email: leizhixian.research@gmail.com
+* Work Address: Harvard University Boaz Barak Group, Cambridge, MA 02138, USA
+* Year of Birth: 1994
+* Citizenship: China
 
 -------------------     ----------------------------
 1 MyAddress                        email@example.com
