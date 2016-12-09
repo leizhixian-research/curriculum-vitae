@@ -26,6 +26,7 @@
   
 2013
   : Zhang Weimin scholarship for outstanding academic award
+  
   : Excellent comprehensive quality scholarship
   
 2012
