@@ -20,11 +20,14 @@
 ## Awards and Honors
 2015
   : Yao Award (bronze medal) for outstanding academic performances of Yao Class students
+  
 2014
   : University scholarship for outstanding academic award
+  
 2013
   : Zhang Weimin scholarship for outstanding academic award
   : Excellent comprehensive quality scholarship
+  
 2012
   : Selected for Xuetang Program (funding program for students with excellent performance)}
   
