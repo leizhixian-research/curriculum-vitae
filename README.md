@@ -34,73 +34,31 @@
   
 * 2012
  * Selected for Xuetang Program (funding program for students with excellent performance)}
-  
-Experience
-----------
+ 
+## Research Interest
 
-**Your Most Recent Work Experience:**
+* Combinatorial Optimization, Mathematical Programming
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Fast Algorithm, Randomized Algorithm
 
-* First item
+* Learning theory, Complexity theory
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+## Publication
 
-**That Other Job You Had**
+* Zhixian Lei, Xuehan Ye, Yongcai Wang, Deying Li, Jia Xu, Efficient Online Model Adaptation by Incremental Simplex Tableau, AAAI 2017
 
-Also with a short description.
+## Programming Experience
 
-Technical Experience
---------------------
+* 2015 
+ * Software Development kit for TalkingData.com
+* 2013 
+ * Music software with music playing and music editing
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+## Programming Languages
+* C++
+* Java
+* Python
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+## Human Languages:
+* Chinese
+* English
